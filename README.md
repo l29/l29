@@ -9,6 +9,6 @@
    <h3 align="center"> on Top </h3>
 </h5>
 </p>
-<p>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<p align="center">
    <img src="https://visitcount.itsvg.in/api?id=v6r&label=Profile%20Views&color=12&icon=2&pretty=true">
 </p>
